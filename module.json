@@ -1,0 +1,33 @@
+{
+  "id": "tah-cyberpunk-style",
+  "title": "Token Action HUD – Cyberpunk 2077 Style",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "guitarist",
+      "discord": "p4vl0o",
+      "email": "p4vl0.dev@gmail.com",
+      "url": "https://github.com/p4vl0-dev"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.351"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "token-action-hud-core",
+        "type": "module"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/tah-cyberpunk.css"
+  ],
+  "manifest": "",
+  "download": ""
+}
