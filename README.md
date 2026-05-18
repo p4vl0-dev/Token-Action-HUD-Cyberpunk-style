@@ -1,5 +1,6 @@
 # Token Action HUD Cyberpunk style
-Module which provides overriding of main theme of TAH Core HUD in favor of Cyberpunk Red x 2077 style
+Module which provides overriding of main theme of TAH Core HUD in favor of Cyberpunk Red x 2077 style.
+Included font support cyrillic text.
 
 ## Supporting Foundry V12 / V13 (V14 may be)
 
