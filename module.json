@@ -1,7 +1,7 @@
 {
   "id": "tah-cyberpunk-style",
   "title": "Token Action HUD – Cyberpunk 2077 Style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "guitarist",
@@ -12,7 +12,7 @@
   ],
   "compatibility": {
     "minimum": "12",
-    "verified": "13.351"
+    "verified": "14"
   },
   "relationships": {
     "requires": [
